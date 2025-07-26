@@ -23,9 +23,9 @@ redirect_from:
 <br><br>
 <br><br>
 
-# <p align="center">Brett Porter - <em>Curriculum Vitae</em></p>
+# Brett Porter - <em>Curriculum Vitae</em>
 
-## <p align="center">Education</p>
+## Education
 
 ### Degrees
 - **Doctor of Philosophy in Information Science** (In Progress) - University of North Texas, Denton, Texas
@@ -36,7 +36,7 @@ redirect_from:
 - **Graduate Certificate in Machine Learning Methods** (2021) – University of California-San Diego, San Diego, California
 - **Graduate Academic Certificate in Archival Management** (2020) - University of North Texas, Denton, Texas
 
-## <p align="center">Scholarship</p>
+## Scholarship
 
 ### Publications
 - **Journal Article** – Lund, B., Orhan, Z., Mannuru, N. R., Bevara, R. V. K., **Porter, B.**, Vinaih, M. K., & Bhaskara, P. (2025). Standards, frameworks, and legislation for artificial intelligence (AI) transparency. *AI and Ethics*. https://doi.org/10.1007/s43681-025-00661-4
@@ -57,22 +57,22 @@ redirect_from:
 - Seeger, C., Connor, L., **Porter, B.**, & Strickland, S. “All of Us Data Treasure Hunt,” Sam Houston State University College of Medicine. Huntsville, Texas, September 2023.
 - Seeger, C., Connor, L., **Porter, B.**, & Strickland, S. “Treasures of the All of Us Research Data,” *Medical Library Association- South Central Chapter Conference*. New Orleans, Louisiana, August 2023.
 
-## <p align="center">Coding Projects</p>
+## Coding Projects
 - **Research Co-author Search:** Python script searches PubMed for co-authored articles and fetches those citations via the Entrez Programming Utilities (E-Utilities) API provided by National Library of Medicine. (Primary coder) https://github.com/NNLM-NCDS/research-team-co-authorship
 
-## <p align="center">Research Interests</p>
+## Research Interests
 - Machine Learning and Deep Learning
 - Explainable AI and AI Ethics
 - Biomedical Informatics
 
-## <p align="center">Skills</p>
+## Skills
 - **Programming Languages:** Python, R, SQL, XHTML/CSS/JavaScript
 - **Machine Learning:** Supervised and Unsupervised Learning, Deep Learning, Natural Language Processing
 - **Data Analysis and Visualization:** Pandas, NumPy, Matplotlib, Seaborn
 - **Tools/Frameworks:** TensorFlow, PyTorch, Scikit-learn
 - **Databases:** MySQL
 
-## <p align="center">Work Experience</p>
+## Work Experience
 
 ### Assistant Professor, Sam Houston State University (2022-Present)
 - **Web Services Librarian:**
@@ -90,10 +90,10 @@ redirect_from:
     - Analyzed legacy and newly created descriptive metadata.
     - Performed activities in support of controlled vocabularies and entity management workflows.
 
-## <p align="center">Professional Accomplishments/Grants</p>
+## Professional Accomplishments/Grants
 - **Co-PI:** NIH/NLM. *All of Us Data Training and Engagement for Academic Libraries* (9/2023-9/2024). $44,500.
 
-## <p align="center">Service</p>
+## Service
 
 ### University Wide
 - **Sam Houston State University:**
@@ -105,11 +105,11 @@ redirect_from:
     - Search Committees (Member): Library Marketing & Events Coordinator (Jan 2022), Systems Librarian (Dec 2022), Acquisition & Serials Librarian (Jan 2023), Head of Digital Initiatives (Apr 2023)
     - Library Display Committee (Chair) (2022-2024)
 
-## <p align="center">Service to Peer-Reviewed Journals/Conferences/Books</p>
+## Service to Peer-Reviewed Journals/Conferences/Books
 - **Journal:** *Journal of Information & Knowledge Management* (2 reviews in 2024)
 - **Conference:** *National Conference on Undergraduate Research* (15 reviews in 2025)
 
-## <p align="center">Professional Memberships</p>
+## Professional Memberships
 - American Library Association (2019-Present)
 - Texas Library Association (2019-Present)
 - UNT LISSA (2019-Present)
