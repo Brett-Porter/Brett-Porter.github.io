@@ -1,3 +1,12 @@
+---
+layout: archive
+permalink: /cv/
+title: "Curriculum Vitae"
+author_profile: true
+redirect_from: 
+  - /resume
+---
+
 <div style="display: flex; justify-content: space-between;">
   <div>
     Sam Houston State University<br>
