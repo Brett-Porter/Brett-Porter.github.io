@@ -27,7 +27,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "PhD student at UNT"
   location         : "Denton, Tx"
-  employer         : ""
+  employer         : # ""
   uri              : # URL
   email            : "brettporter@my.unt.edu" 
 
