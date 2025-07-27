@@ -1,6 +1,7 @@
 ---
 title: "Ethics from Antiquity to the Present: Scholastic Ethics to Applied Ethics"
 collection: publications
+category: book_chapters
 permalink: /publication/2023-09-04-scholastic-ethics
 excerpt: 'This book chapter explores the historical evolution of ethical thought from ancient times to the modern era, focusing on the transition from scholastic to applied ethics.'
 date: 2023-09-04
